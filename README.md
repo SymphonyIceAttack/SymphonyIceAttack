@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am SymphonyIceAttack and the constant is change 
 
-<img align="right" alt="img" src="https://github.com/SymphonyIceAttack/SymphonyIceAttack/blob/master/Honkai Academy 2 Nine Sky.jpeg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/SymphonyIceAttack/SymphonyIceAttack/blob/master/HonkaiAcademy2NineSky.jpeg" width="50%" height="auto" />
 
 #### 🔭 Things I am currently working on:
 - :rocket: Finish my Master Degree
