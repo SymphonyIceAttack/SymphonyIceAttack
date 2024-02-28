@@ -25,15 +25,15 @@ Welcome to my Github page! I am SymphonyIceAttack and the constant is change
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SymphonyIceAttack&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
 </p>
 
