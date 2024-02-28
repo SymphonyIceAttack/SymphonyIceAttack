@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am SymphonyIceAttack and the constant is change 
 
-<img align="right" alt="img" src="https://github.com/SymphonyIceAttack/SymphonyIceAttack/blob/main/blue archive.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/SymphonyIceAttack/SymphonyIceAttack/blob/main/BlueArchive.png" width="50%" height="auto" />
 
 #### 🔭 Things I am currently working on:
 - :rocket: Finish my Master Degree
@@ -28,13 +28,13 @@ Welcome to my Github page! I am SymphonyIceAttack and the constant is change
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br />
-<code><img width="10%" src=""></code>
-<code><img width="10%" src=""></code>
-<code><img width="10%" src=""></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
 <br />
-<code><img width="10%" src=""></code>
-<code><img width="10%" src=""></code>
-<code><img width="10%" src=""></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [picture](https://github.com/SymphonyIceAttack/SymphonyIceAttack/blob/main/blue archive.png)</sub>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [picture](https://github.com/SymphonyIceAttack/SymphonyIceAttack/blob/main/BlueArchive.png)</sub>
