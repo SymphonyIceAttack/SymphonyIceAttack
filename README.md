@@ -1,7 +1,7 @@
 ![snake animation](https://github.com/SymphonyIceAttack/SymphonyIceAttack/blob/output/github-contribution-grid-snake.svg)
 ### Hi there 👋
 ### This is SymphonyIceAttack
-
+${{ github.repository_owner }}
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SymphonyIceAttack)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:symphonyiceattack@gmail.com)
 
