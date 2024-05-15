@@ -22,7 +22,7 @@ Welcome to my Github page! I am SymphonyIceAttack and the constant is change
 
 #### :computer: Programming languages and tools:
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SymphonyIceAttack&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SymphonyIceAttack&show_icons=true&hide_border=true&count_private=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
